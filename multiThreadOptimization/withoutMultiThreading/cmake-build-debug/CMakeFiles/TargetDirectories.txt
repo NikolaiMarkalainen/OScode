@@ -1,3 +1,0 @@
-/home/nikolai/Documents/OSCoding/OSCode/multiThreadOptimization/withoutMultiThreading/cmake-build-debug/CMakeFiles/withoutMultiThreading.dir
-/home/nikolai/Documents/OSCoding/OSCode/multiThreadOptimization/withoutMultiThreading/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/nikolai/Documents/OSCoding/OSCode/multiThreadOptimization/withoutMultiThreading/cmake-build-debug/CMakeFiles/rebuild_cache.dir
